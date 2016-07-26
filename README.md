@@ -3,3 +3,5 @@
 
 # Sites
 * [JUXT] (https://juxt.pro/blog/index.html)
+* [planet.clojure.in](http://planet.clojure.in/)
+* [clojure-toolbox](http://www.clojure-toolbox.com/)
